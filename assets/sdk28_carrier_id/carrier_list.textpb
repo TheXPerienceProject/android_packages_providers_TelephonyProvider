@@ -12108,8 +12108,6 @@ carrier_id {
   carrier_attribute {
     mccmnc_tuple: "24050"
   }
-<<<<<<< HEAD
-=======
   carrier_attribute {
     mccmnc_tuple: "20614"
     gid1: "0E"
@@ -12118,7 +12116,6 @@ carrier_id {
     mccmnc_tuple: "20614"
     spn: "Telavox"
   }
->>>>>>> android-15.0.0_r6
 }
 carrier_id {
   canonical_id: 2525
@@ -13331,8 +13328,6 @@ carrier_id {
   }
 }
 carrier_id {
-<<<<<<< HEAD
-=======
   canonical_id: 2642
   carrier_name: "Netcom Group"
   carrier_attribute {
@@ -13385,7 +13380,6 @@ carrier_id {
   }
 }
 carrier_id {
->>>>>>> android-15.0.0_r6
   canonical_id: 10000
   carrier_name: "Tracfone-ATT"
   carrier_attribute {
@@ -13627,8 +13621,4 @@ carrier_id {
   }
   parent_canonical_id: 2023
 }
-<<<<<<< HEAD
-version: 46
-=======
 version: 48
->>>>>>> android-15.0.0_r6
